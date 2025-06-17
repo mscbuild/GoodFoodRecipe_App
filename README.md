@@ -1,7 +1,7 @@
 # 🍽️ Recipe Finder App
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
- ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+ ![](https://img.shields.io/github/repo-size/mscbuild/recipe)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-html/css-green)
 ![](https://img.shields.io/github/stars/mscbuild)
@@ -31,7 +31,7 @@ Welcome to the Recipe Finder App — a simple and elegant web application that h
 To run this project locally:
 
 Clone the repository:
-~~~bach
+~~~ruby
 git clone https://github.com/mscbuild/Recipe-Finder-App.git
 ~~~
 
