@@ -8,6 +8,9 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
+<img width="1344" height="605" alt="567" src="https://github.com/user-attachments/assets/9cd93cb7-938c-4564-8b84-98eb32de3ef3" />
+
+
 Welcome to the Recipe Finder App — a simple and elegant web application that helps users discover delicious recipes based on ingredients or dish names. Built using only HTML and CSS, this lightweight project is perfect for practicing front-end development fundamentals.
 
 # 🌟 Features
