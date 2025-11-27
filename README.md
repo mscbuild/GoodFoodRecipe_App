@@ -11,7 +11,7 @@
 <img width="1344" height="605" alt="567" src="https://github.com/user-attachments/assets/9cd93cb7-938c-4564-8b84-98eb32de3ef3" />
 
 
-Welcome to the Recipe Finder App — a simple and elegant web application that helps users discover delicious recipes based on ingredients or dish names. Built using only HTML and CSS, this lightweight project is perfect for practicing front-end development fundamentals.
+*Welcome to the Recipe Finder App — a simple and elegant web application that helps users discover delicious recipes based on ingredients or dish names. Built using only HTML and CSS, this lightweight project is perfect for practicing front-end development fundamentals.
 
 # 🌟 Features
 
